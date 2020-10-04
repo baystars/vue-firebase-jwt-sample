@@ -1,5 +1,8 @@
 # vue-firebase-jwt-sample
 
+* 認証が不要のページもあるがfirebaseでサインインしないとアクセスできない
+* リフレッシュトークン切れには非対応(privateページがエラー)
+
 ## Set up
 
 see README.md in fronend/backend
@@ -17,6 +20,12 @@ run frontend server (http://localhost:8080)
 ```shell
 make frontend
 ```
+
+### Account
+
+* higebobo@gmail.com:buta7(2020/10/04)
+    * higebobo@gmail.com
+    * tpecosin@gmail.com
 
 ## Link
 
